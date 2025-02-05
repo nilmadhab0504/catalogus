@@ -19,5 +19,3 @@
     ```
     node worker.mjs
     ```
-Configuration
-MongoDB and Redis configurations are already included in the code. No need for a .env file. Ensure MongoDB and Redis are running.
