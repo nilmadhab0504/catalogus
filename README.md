@@ -1,4 +1,4 @@
-# CALALOGUS Image processing 
+# CATALOGUS Image processing 
 
 ## Installation
 
